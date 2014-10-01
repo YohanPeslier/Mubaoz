@@ -1,0 +1,9 @@
+Rôle des différents fichiers :
+
+mod_MUBAOZ_Anonyme_Download.xml --> Ce fichier contient les informations sur le module
+
+mod_MUBAOZ_Anonyme_Download.php --> Ce fichier est le point d'entrée du module
+
+helper.php --> Ce fichier contient la classe d'aide du module
+
+tmpl/default.php --> C'est le template du module. Ce fichier gere les données collecté par mod_DUAnonyme.php et genere le HTML afficher sur la page

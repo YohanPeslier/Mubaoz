@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extension type="module" version="1.0" client="site" method="upgrade">
+
+	<name>MUBAOZ_Anonyme_Download</name>
+
+	<author>Projet Tuteuré</author>
+
+	<version>1.0.0</version>
+
+	<description>Module de Download / Upload fonctionnant avec des liens anonymes</description>
+	
+	<files>
+		<filename>mod_MUBAOZ_Anonyme_Download.xml</filename>
+		<filename module="mod_MUBAOZ_Anonyme_Download">mod_MUBAOZ_Anonyme_Download.php</filename>
+		<filename>index.html</filename>
+		<filename>helper.php</filename>
+		<filename>tmpl/default.php</filename>
+		<filename>tmpl/index.html</filename>
+	</files>
+
+	<config>
+
+	</config>
+
+</extension>

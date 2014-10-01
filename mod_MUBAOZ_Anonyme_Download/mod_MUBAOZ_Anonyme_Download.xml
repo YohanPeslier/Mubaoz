@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extension type="module" version="1.0" client="site" method="upgrade">
+
+<name>Mubaoz Download</name>
+
+<author>Projet Tuteuré</author>
+
+<version>1.0.0</version>
+
+<description>Module de Download / Upload fonctionnant avec des liens anonymes</description>
+
+<files>
+
+<filename>mod_caritor _helloworld.xml</filename>
+
+<filename module="mod__caritor _helloworld">mod__caritor _helloworld.php</filename>
+
+<filename>index.html</filename>
+
+<filename>helper.php</filename>
+
+<filename>tmpl/default.php</filename>
+
+<filename>tmpl/index.html</filename>
+
+</files>
+
+<config>
+
+</config>
+
+</extension>
